@@ -1,0 +1,104 @@
+ *{
+    background-color: black;
+} 
+
+.Vergil{
+    color: white;
+    text-align: center;
+    /* font-size: 22px; */
+}
+
+
+
+
+
+#description-vergil{
+    font-size: 30px;
+    font-family: OCR A Std, monospace;
+}
+
+#Know-more-about-Vergil{
+    color: black;
+    background-color: black;
+}
+ #Know-more-about-Vergil :hover{
+    color: red
+  } 
+
+  #Know-more-about-Vergil :visited{
+    color: maroon;
+  }
+  
+
+
+#Name{
+    font-family: "Copperplate" !important;
+
+}
+
+#Title-Him{
+    font-family: "Copperplate" !important;
+}
+
+#Vergil-status{
+    border-radius: 25px;
+    float: left;
+
+}
+
+
+#Yamato-Big{
+    color:rgb(0, 55, 235)
+}
+
+.The-Yamato-Gif{
+    /* border-radius: 30px; */
+    border-width: 13;
+    z-index: -1;
+    /* padding-left: 425px; */
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#Yamato{
+    text-align: center;
+    font-size: 75px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+
+
+ul {
+    list-style-type: none;
+  }
+
+#question-yamato{
+    text-align: center;
+    font-size: medium;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+
+.Yamato-facts{
+    text-align: center;
+}
+
+
+
+#Know-more-about-Yamato{
+    color: black;
+    background-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+ #Know-more-about-Yamato :hover{
+    color: red
+  } 
+
+  #Know-more-about-Yamato :visited{
+    color: maroon;
+  }
+  
